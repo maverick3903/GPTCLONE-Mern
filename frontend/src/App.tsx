@@ -13,7 +13,6 @@ function App() {
 
   return (
     <main>
-    // testing codespaces
       <Header />
       <Routes>
         <Route path="/" element={<Home/>} />
@@ -23,6 +22,7 @@ function App() {
         <Route path="*" element={<NotFound/>} />
       </Routes>
     </main>
+    // testing
   )
 }
 
