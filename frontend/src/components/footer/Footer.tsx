@@ -18,9 +18,9 @@ const Footer = () => {
             <Link
               style={{ color: "white" }}
               className="nav-link"
-              to={"https://github.com/yashdubey20"}
+              to={"https://github.com/Harshitadubey20"}
             >
-              Yash Dubey
+              Harshita Dubey
             </Link>
           </span>
           💘

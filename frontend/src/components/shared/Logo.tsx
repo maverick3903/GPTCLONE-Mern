@@ -25,7 +25,7 @@ const Logo = () => {
                 fontWeight:"800",
                 textShadow: "2px 2px 20px #000",
              }}>
-                <span style={{ fontSize: "20px" }}>YASH</span>-GPT
+                <span style={{ fontSize: "20px" }}>Harshita</span>-GPT
         </Typography>
     </div>
   )
